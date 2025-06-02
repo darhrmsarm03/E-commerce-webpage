@@ -37,7 +37,7 @@ logtadds-shopping-page/
 │   ├── man-sitting-on-ledge-1306248.jpg  # Product image
 │   ├── two-people-wearing-rugged-jeans-1365363.jpg  # Product image
 │   ├── photo-of-person-wearing-tattered-jeans-3751376.jpg  # Product & blog image
-├── index.html                 # Main HTML file
+├── product.html                 # Main HTML file
 ├── privacy-policy.html        # Privacy policy page (not included)
 ├── cookie-policy.html         # Cookie policy page (not included)
 ├── training.html              # Tutorial training page (not included)
@@ -54,7 +54,7 @@ logtadds-shopping-page/
    cd logtadds-shopping-page
    ```
 3. **Open the Page**:
-   - Open `index.html` in a web browser to view the page locally.
+   - Open `product.html` in a web browser to view the page locally.
    - Ensure an internet connection for loading external resources (W3.CSS, Font Awesome, Google Fonts).
 
 ## Usage
@@ -64,9 +64,9 @@ logtadds-shopping-page/
 - **Footer Links**: Access privacy policy, cookie policy, and tutorial training pages (placeholders; implement these files as needed).
 
 ## Customization
-- **Images**: Replace files in the `images/` folder with your own, ensuring filenames match those referenced in `index.html`.
+- **Images**: Replace files in the `images/` folder with your own, ensuring filenames match those referenced in `product.html`.
 - **Styles**: Modify `assets/css/project.css` to adjust colors, layouts, or other styles.
-- **Products**: Update the product grid in `index.html` to add or remove items, adjusting names, prices, and image paths.
+- **Products**: Update the product grid in `product.html` to add or remove items, adjusting names, prices, and image paths.
 - **Checkout**: The "Buy Now" buttons link to an external service (e.g., `https://ww9.aitsafe.com`). Update the URLs and `userid` parameter to match your checkout system.
 
 ## Notes
